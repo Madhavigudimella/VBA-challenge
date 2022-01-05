@@ -1,6 +1,6 @@
 # vba-challenge
 
-This repository consists of both test data and stock data along with screenshots of 2014, 2015 and 2016 summaries. Below are screenshots of the summaries:
+This repository consists of both test data and stock data along with screenshots of 2014, 2015 and 2016 summaries. Below are screenshots of the summaries by year:
 
 2014:
 
